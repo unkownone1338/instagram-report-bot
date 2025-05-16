@@ -66,7 +66,7 @@ to get the pr-ogram:
   [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://tinyurl.com/33wsmpsk)
 
 - **Contact Support**:  
-  [![Contact Support](https://img.shields.io/badge/Contact-Support-green)](https://tinyurl.com/yn36n592)
+  [![Contact Support](https://img.shields.io/badge/Contact-Support-green)](https://t.me/abrzi505)
 
 - **Telegram Contact**:  
   [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-blue)](https://tinyurl.com/yn36n592)
