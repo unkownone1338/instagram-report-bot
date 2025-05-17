@@ -4,7 +4,7 @@
 
 <p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
 
-<img align="right" alt="count" src="https://count.getloli.com/get/@:?theme=booru-mjg">
+
     
 <h1 align="center">INSTAGRAM REPORT BOT</h1>
 
