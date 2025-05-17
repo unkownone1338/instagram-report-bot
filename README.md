@@ -4,16 +4,16 @@
 
 <p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
 
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="250"
-</p>
-
     
 <h1 align="center">INSTAGRAM REPORT BOT</h1>
 
 
 
 <p align="center">REPORT ANY INSTAGRAM ACCOUNT.</p>
+
+<p align="right">
+  <img src="https://files.catbox.moe/fu74ny.png" width="250"
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
